@@ -1,6 +1,7 @@
 {
   "name": "react-app",
   "private": true,
+  "homepage":"https://jrmcerbersus.github.io/Buscador-uwu/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
