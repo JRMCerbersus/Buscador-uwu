@@ -1,0 +1,26 @@
+.btn-custom {
+    background-color: #4b0082;
+    color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border: none;
+  }
+  
+  .btn-custom:hover {
+    background-color: #3a006b; 
+  }
+  
+  .btn-custom:active {
+    background-color: #4b0082;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4);
+    transform: translateY(2px);
+  }
+  
+  .card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-title {
+    color: #4b0082; 
+  }
+  
